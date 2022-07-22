@@ -9,3 +9,11 @@ The proposed EKF uses an Unstructured Mechanistic Kinetic Model (UMKM) that depe
 The parameters used in the UMKM were estimated with Neural Ordinary Differential Equation and Bayesian inference approaches and were the used as initial parameters in EKF.
 The evaluation showed that the proposed approach was able to estimate the GLC, LAC and AAV viral titer efficiently beside reduce the noise of Xv.
 It has a high potential to be extended to a online soft-sensor or be a sub-model of a model predictive control and be classified as a low cost and fast approach to monitoring AAV production. 
+
+
+
+#Contents
+
+* Matlab code of EKF implemantation
+* Julia code NODE and Bayesian inference implementation
+* dataset
